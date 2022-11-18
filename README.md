@@ -1,9 +1,9 @@
 # Banking_App
-This is Task 2 of sparks foundation intern GRIP Task
+This is Task  of sparks foundation intern GRIP Task
 
 ## Introduction
 
-This is Task 2 of sparks foundation intern GRIP Task in which basic banking app has to made in which the there must be 10 customers and no option of adding and deleteing 
+This is Task  of sparks foundation intern GRIP Task in which basic banking app has to made in which the there must be 10 customers and no option of adding and deleteing 
 the customers.In this application the flow of functions are <b>Home Screen-->View all Customers-->Select and view one customer-->Transfer Money-->Select Customer-->View 
 all customers-->History</b>
 
